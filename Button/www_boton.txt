@@ -1,2 +1,2 @@
-~https://recursospython.com/guias-y-manuales/boton-button-en-tkinter/~
+https://recursospython.com/guias-y-manuales/boton-button-en-tkinter/
 
