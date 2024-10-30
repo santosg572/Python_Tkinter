@@ -1,0 +1,5 @@
+~https://www.javatpoint.com/python-tkinter-frame~
+~https://www.geeksforgeeks.org/python-tkinter-frame-widget/~
+~https://www.tutorialspoint.com/python/tk_frame.htm~
+
+

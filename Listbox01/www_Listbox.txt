@@ -1,0 +1,6 @@
+~https://www.geeksforgeeks.org/python-tkinter-listbox-widget/~
+
+~https://www.tutorialspoint.com/python/tk_listbox.htm~
+~https://www.tutorialesprogramacionya.com/pythonya/detalleconcepto.php?punto=62&codigo=62&inicio=60~
+
+

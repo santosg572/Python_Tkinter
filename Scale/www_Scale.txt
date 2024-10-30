@@ -1,0 +1,7 @@
+~https://coderslegacy.com/python/python-gui/python-tkinter-scale/~
+
+~https://www.geeksforgeeks.org/python-tkinter-scale-widget/~
+
+~https://www.educba.com/tkinter-scale/~
+
+

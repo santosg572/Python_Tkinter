@@ -1,0 +1,5 @@
+~https://docs.hektorprofe.net/python/interfaces-graficas-con-tkinter/widget-menu/~
+~https://www.tutorialspoint.com/python/tk_menu.htm~
+~https://www.javatpoint.com/python-tkinter-menu~
+
+

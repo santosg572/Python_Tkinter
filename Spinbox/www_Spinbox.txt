@@ -1,0 +1,7 @@
+~https://pythonassets.com/posts/spinbox-in-tk-tkinter/~
+
+~https://www.geeksforgeeks.org/python-tkinter-spinbox/~
+
+~https://www.tutorialspoint.com/python/tk_spinbox.htm~
+
+
