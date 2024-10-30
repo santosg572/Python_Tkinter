@@ -1,7 +1,9 @@
-~https://coderslegacy.com/python/python-gui/python-tkinter-scale/~
-
-~https://www.geeksforgeeks.org/python-tkinter-scale-widget/~
-
-~https://www.educba.com/tkinter-scale/~
+https://anzeljg.github.io/rin2/book
+https://pythonassets.com/posts/display-image-in-tk-tkinter/
+https://www.geeksforgeeks.org/how-to-add-an-image-in-tkinter/
+https://coderslegacy.com/python/python-gui/python-tkinter-scale/
+https://www.geeksforgeeks.org/python-tkinter-scale-widget/
+https://www.educba.com/tkinter-scale/
+https://www.geeksforgeeks.org/how-to-change-the-tkinter-label-text/
 
 

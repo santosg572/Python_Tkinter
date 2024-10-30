@@ -1,5 +1,4 @@
-~https://www.geeksforgeeks.org/python-tkinter-text-widget/~
-
-~https://www.tutorial~
+https://www.geeksforgeeks.org/python-tkinter-text-widget/
+https://www.tutorial
 
 

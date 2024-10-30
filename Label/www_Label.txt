@@ -1,0 +1,6 @@
+https://www.tutorialesprogramacionya.com/pythonya/detalleconcepto.php?punto=58&codigo=58&inicio=45
+https://es.stackoverflow.com/questions/62377/python-usando-label-en-tkinter
+https://www.geeksforgeeks.org/python-tkinter-label/
+https://www.tutorialspoint.com/python/tk_label.htm
+https://codigofacilito.com/articulos/archivos-ejecutables-python
+
