@@ -1,0 +1,15 @@
+https://www.geeksforgeeks.org/python-geometry-method-in-tkinter/
+
+https://tkdocs.com/tutorial/firstexample.html
+
+https://acodigo.blogspot.com/2017/03/tkinter-grid.html
+
+https://acodigo.blogspot.com/2017/03/tkinter-grid.html
+
+https://stackoverflow.com/questions/62621138/python-tkinter-how-to-use-grid-sticky
+
+https://www.tutorialspoint.com/python/tk_pack.htm
+
+
+
+
