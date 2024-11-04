@@ -1,2 +1,4 @@
+https://www.javatpoint.com/python-tkinter-radiobutton
+
 https://docs.hektorprofe.net/python/interfaces-graficas-con-tkinter/widget-radiobutton-radial/
 
