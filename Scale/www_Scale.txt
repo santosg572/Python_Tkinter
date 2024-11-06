@@ -1,3 +1,4 @@
+https://www.tutorialspoint.com/python/tk_scale.htm
 https://anzeljg.github.io/rin2/book
 https://pythonassets.com/posts/display-image-in-tk-tkinter/
 https://www.geeksforgeeks.org/how-to-add-an-image-in-tkinter/
