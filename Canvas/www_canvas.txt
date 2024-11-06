@@ -1,3 +1,5 @@
+https://tkinter-docs.readthedocs.io/en/latest/widgets/canvas.html
+https://www.tutorialesprogramacionya.com/pythonya/detalleconcepto.php?punto=73&codigo=73&inicio=60
 ~https://www.tutorialspoint.com/python/tk_ca~
 ~https://www.tutorialesprogramacionya.com/pythonya/detalleconcepto.php?punto=73&codigo=73&inicio=60~
 
