@@ -1,3 +1,17 @@
+https://docs.python.org/es/3.13/library/tkinter.html
+https://es.wikipedia.org/wiki/Tkinter
+https://keepcoding.io/blog/que-es-tkinter/
+https://guia-tkinter.readthedocs.io/es/develop/chapters/5-basic/5.1-Intro.html
+https://wiki.python.org/moin/TkInter
+https://en.wikipedia.org/wiki/Tkinter
+https://formacion.intef.es/aulaenabierto/mod/book/view.php?id=5154&chapterid=6812
+https://tkdocs.com/
+https://recursospython.com/guias-y-manuales/introduccion-a-tkinter/#google_vignette
+https://www.geeksforgeeks.org/python-gui-tkinter/
+https://victomanolo.wordpress.com/tkinter-en-python/
+https://desarrollaria.com/desarrollar-ia/aplicaciones/todo-lo-que-necesitas-saber-sobre-tkinter
+https://hackernoon.com/lang/es/construyendo-tu-primera-gui-de-python-con-tkinter
+
 https://tkdocs.com/tutorial/firstexample.html
 
 
